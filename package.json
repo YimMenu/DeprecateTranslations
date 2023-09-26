@@ -1,0 +1,12 @@
+{
+  "name": "check-for-non-existend-translation-keys",
+  "version": "0.0.1",
+  "description": "Compares the English (US) translation file with the YimMenu source code to see if any are no longer being used.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "yimura",
+  "license": "MIT"
+}
