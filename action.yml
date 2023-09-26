@@ -1,0 +1,5 @@
+name: 'YimMenu Translation Deprecation Action'
+description: 'Checks if the YimMenu source code contains deprecated translation keys.'
+runs:
+  using: 'node16'
+  main: 'index.js'
